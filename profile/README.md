@@ -1,4 +1,4 @@
-Hi there 👋 we are a team of developers from the <img height="13" alt="uk flag" src="https://cdn-icons-png.flaticon.com/512/197/197374.png"> **United Kingdom**
+Hi there 👋 we are a team of developers from the <img height="13" alt="uk flag" src="https://cdn-icons-png.flaticon.com/512/197/197374.png"> **United Kingdom** & <img height="13" alt="au flag" src="https://cdn-icons-png.flaticon.com/512/323/323367.png"> **Australia**
 
 ## projects
 
