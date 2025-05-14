@@ -4,10 +4,8 @@ Hi there 👋 we are a team of developers from the <img height="13" alt="uk flag
 
 | 🔥 project | ✨ description | 🚦 status | 🌍 open source | 🌿 version |
 | - | - | - | - | - |
-| nebula | cad/mdt software | <img alt="Static Badge" src="https://img.shields.io/badge/in%20development-blue?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/closed%20source-red?style=flat-square"> | v0.0.0 |
 | warden | discord bot | <img alt="Static Badge" src="https://img.shields.io/badge/on%20hold-orange?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/closed%20source-red?style=flat-square"> | v1.0.0 |
 | [momento](https://momento.galaxynex.us) | discord music bot | <img alt="Static Badge" src="https://img.shields.io/badge/operational-green?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/closed%20source-red?style=flat-square"> | v1.0.0 |
-| [cosmos](https://cosmos.zarky.uk) | upload service | <img alt="Static Badge" src="https://img.shields.io/badge/in%20development-blue?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/closed%20source-red?style=flat-square"> | v0.0.0 |
 
 <!--
 
